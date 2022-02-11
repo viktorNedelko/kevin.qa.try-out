@@ -40,4 +40,3 @@ Upload the completed task to GitHub and send us a link to `code@kevin.eu`.
 
 - Make sure you don't mention `kevin.` anywhere in the code or repository name.
 - Please include how long it took for you to do the tasks.# kevin.qa.try-out
-# kevin.qa.try-out
