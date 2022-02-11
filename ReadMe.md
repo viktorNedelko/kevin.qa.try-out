@@ -31,12 +31,8 @@ Tests format and execution method is up to you:
 3. Automatic test scripts, written on test automation frameword, such as Cypress, Selenium, etc.
 4. None of the above, in which case please provide a reference for you chosen approach and comprehensive remarks on the execution
 
-## Remarks
-- Feel free to use any test tool you find suitable for this task (e.g. Postman, Cypress, Selenium).
-- Please include `README.md` with instructions how to launch tests.
-
 ## Submitting the task
-Upload the completed task to GitHub and send us a link to `code@kevin.eu`.
+Conpress the completed task to a zip and send it to `viktor.nedelko@kevin.eu`.
 
-- Make sure you don't mention `kevin.` anywhere in the code or repository name.
-- Please include how long it took for you to do the tasks.# kevin.qa.try-out
+- First task should be in a separate folder, that is a root of your cypress projetc.
+- If Second task was completed using Postman you can only include the JSON of the edited Postman Collection.
